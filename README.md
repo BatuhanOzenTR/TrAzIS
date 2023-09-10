@@ -1,12 +1,12 @@
-Merhaba, ben Batuhan Özen. İstanbul'da doğdum ve 28 Ocak 2005 tarihinde bu dünyaya adım attım. Şu anda Meslek Lisesi'nde Web Tabanlı Programlama bölümünde son sınıf öğrencisi olarak eğitimime devam ediyorum.
+Hello, I'm Batuhan Özen. I was born in Istanbul, and I took my first step into this world on January 28, 2005. Currently, I am a senior student majoring in Web-Based Programming at a Vocational High School.
 
-Bilgisayarlarla çalışmak ve teknoloji dünyasına katkıda bulunmak benim için bir tutku. Ayrıca Korece ve Kore'ye olan ilgimi arttırmaya ve bu alanda kendimi sürekli olarak geliştirmeye çalışıyorum.
+Working with computers and contributing to the world of technology is a passion of mine. Additionally, I have a strong interest in expanding my knowledge of the Korean language and deepening my connection to Korea, continually striving for self-improvement in this field.
 
-2023-2024 eğitim yılında Başbuğ Group'ta stajyer olarak çalışma fırsatı yakaladım. Bu deneyim, kariyerime sağlam bir başlangıç yapma fırsatı sunacak ve alanımda daha fazla bilgi ve deneyim edinmemi sağlayacak.
+For the academic year 2023-2024, I have seized the opportunity to work as an intern at Basbug Group. This experience will provide me with a solid foundation to kickstart my career and further my knowledge and expertise in my chosen field.
 
-Dürüstlük, iş birliği, takım çalışması, saygı ve samimiyet benim için önemli değerlerdir. Bu değerler, hem kişisel hem de profesyonel yaşantımda rehberim olmuştur.
+Honesty, collaboration, teamwork, respect, and sincerity are important values for me. These principles serve as my guiding compass, both in my personal and professional life.
 
-Hayatım boyunca öğrenmeye ve büyümeye devam etmeyi amaçlıyorum. Teknoloji dünyasında iz bırakmak ve topluma faydalı olmak için çalışmalarımı sürdürüyorum.
+Throughout my life, I aim to keep learning and growing. My goal is to make a mark in the world of technology and contribute positively to society. I am committed to continuing my efforts in this direction.
 
 - 👋 Hi, I’m @TrAzIS
 - 👀 I’m interested in Korea and Korean Language
