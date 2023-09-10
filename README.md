@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TrAzIS
 - 👀 I’m interested in Korea
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me batuhanozen562@gmail.com
 
 <!---
