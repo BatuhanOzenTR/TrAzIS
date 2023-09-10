@@ -8,7 +8,7 @@ Honesty, collaboration, teamwork, respect, and sincerity are important values fo
 
 Throughout my life, I aim to keep learning and growing. My goal is to make a mark in the world of technology and contribute positively to society. I am committed to continuing my efforts in this direction.
 
-- 👋 Hi, I’m @TrAzIS
+- 👋 Hi, I’m @BatuhanOzenTR
 - 👀 I’m interested in Korea and Korean Language
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me ? = batuhanozen562@gmail.com
